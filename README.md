@@ -24,9 +24,8 @@ If using an email account that supports '+' or '.' that will work as well ex `+d
 
 Enact is a framework built on top of React and one of its uses is building out WebOS applications.
 
-> [!NOTE]  
-> Enact version
->
+> [!NOTE]
+> 
 > It's important to ensure that the version of Enact you're using
 matches the WebOS version of your TV
 
