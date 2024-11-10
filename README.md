@@ -4,6 +4,8 @@
 > This is a WIP
 > 
 > This may have incorrect information, better solutions may exist
+> 
+> This is really geared towards my current situation which is WebOS 4 and Enact 1.13 but may be helpful to you
 
 ## TODO
 
@@ -32,7 +34,7 @@ with 1.13 and `npm install`
 At this point I'm still trying to figure that out. What I do know is enact:
 
 - Handles packaging for you
-- Keeps the WebOS metadata separate and therefore source code in `src/` is just React code
+- Keeps the WebOS metadata separate and source code in `src/` is just React code. Nice separation
 - Comes with linting
 - Comes with `enact test` out of the box (TODO what is this)
 
@@ -44,7 +46,6 @@ At this point I'm still trying to figure that out. What I do know is enact:
 `ares-package dist` creates the IPK that will be installed on the TV
 
 `ares-install --device <TARGET_DEVICE> <IPK FILE>`
-
 
 ## Other documentation
 
