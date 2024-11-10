@@ -13,10 +13,22 @@
 - Creating LG developer account
 - Installing ares
 
+## Creating LG developer account
+
+Can be created on the [LG website](https://us.lgemembers.com/lgacc/service/v1/signin)
+
+If email address has previously been used with LG, or complains about used in a different country (for me I'm Canadian and the LG dev site seems to be United States), use a different email account.
+If using an email account that supports '+' or '.' that will work as well ex `+dev@gmail.com`.
+
 ## Enact and WebOS versioning
 
-**You need to ensure that the version of Enact you're using
-matches the WebOS version.**
+Enact is a framework built on top of React and one of its uses is building out WebOS applications.
+
+> [!NOTE]  
+> Enact version
+>
+> It's important to ensure that the version of Enact you're using
+matches the WebOS version of your TV
 
 For LG, you can find the Platform version under -> Settings menu: Settings > General > TV Information > webOS TV version
 
